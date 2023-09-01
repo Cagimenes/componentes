@@ -5,7 +5,7 @@ import Form from "./components/Form/form";
 function App() {
   return (
     <>
-    <Form />
+    <Form titulo="Login" />
     </>
   );
 }
